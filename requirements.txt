@@ -1,0 +1,6 @@
+pandas==2.0.3
+numpy==1.26.4
+termcolor==2.4.0
+tensorflow==2.16.1
+keras==3.3.3
+h5py==3.11.0

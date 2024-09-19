@@ -1,3 +1,15 @@
+#data
+*.npz
+*.npy
+*.csv
+*.zip
+*.csv
+*.png
+
+# model folders
+fusion/*/models/
+fusion/*/logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

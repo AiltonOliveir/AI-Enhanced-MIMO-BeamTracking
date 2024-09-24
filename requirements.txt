@@ -4,3 +4,4 @@ termcolor==2.4.0
 tensorflow==2.16.1
 keras==3.3.3
 h5py==3.11.0
+seaborn==0.13.2

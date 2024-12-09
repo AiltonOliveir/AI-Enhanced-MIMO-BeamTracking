@@ -5,11 +5,12 @@ This repository contains the code, datasets, and simulation tools for the paper 
 If you use this code or dataset in your research, please cite the following paper:
 
 ```
-@inproceedings{Oliveira24,
-author = {Oliveira, Ailton and Suzuki, Daniel and Bastos, Savio and Sousa, Ilan and Klautau, Aldebaro}, 
-title = {Machine Learning-Based {mmWave} {MIMO} Beam Tracking in {V2I} Scenarios: Algorithms and Datasets},
-booktitle = {Proceedings of the IEEE Latin-American Conference on Communications},
-year = {2024},
-organization={IEEE}
+@inproceedings{oliveira2024machine,
+  title={Machine Learning-Based mmWave MIMO Beam Tracking in V2I Scenarios: Algorithms and Datasets},
+  author={Oliveira, Ailton and Suzuki, Daniel and Bastos, S{\'a}vio and Correa, Ilan and Klautau, Aldebaro},
+  booktitle={2024 IEEE Latin-American Conference on Communications (LATINCOM)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
 }
 ```
